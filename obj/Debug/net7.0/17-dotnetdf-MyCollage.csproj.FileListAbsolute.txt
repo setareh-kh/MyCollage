@@ -1,0 +1,225 @@
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\appsettings.Development.json
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\appsettings.json
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\17-dotnetdf-MyCollage.exe
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\17-dotnetdf-MyCollage.deps.json
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\17-dotnetdf-MyCollage.runtimeconfig.json
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\17-dotnetdf-MyCollage.dll
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\17-dotnetdf-MyCollage.pdb
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\Humanizer.dll
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\MySqlConnector.dll
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Backend_class\17-dotnetdf-MyCollage\bin\Debug\net7.0\System.CodeDom.dll
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.csproj.AssemblyReference.cache
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.AssemblyInfoInputs.cache
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.AssemblyInfo.cs
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.csproj.CoreCompileInputs.cache
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.MvcApplicationPartsAssemblyInfo.cs
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.MvcApplicationPartsAssemblyInfo.cache
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\staticwebassets\msbuild.17-dotnetdf-MyCollage.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\staticwebassets\msbuild.build.17-dotnetdf-MyCollage.props
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.17-dotnetdf-MyCollage.props
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.17-dotnetdf-MyCollage.props
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\staticwebassets.build.json
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\staticwebassets.development.json
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\scopedcss\bundle\17-dotnetdf-MyCollage.styles.css
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.csproj.CopyComplete
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.dll
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\refint\17-dotnetdf-MyCollage.dll
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.pdb
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.genruntimeconfig.cache
+E:\Backend_class\17-dotnetdf-MyCollage\obj\Debug\net7.0\ref\17-dotnetdf-MyCollage.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\appsettings.Development.json
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\appsettings.json
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\17-dotnetdf-MyCollage.exe
+e:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\17-dotnetdf-MyCollage.deps.json
+e:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\17-dotnetdf-MyCollage.runtimeconfig.json
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\17-dotnetdf-MyCollage.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\17-dotnetdf-MyCollage.pdb
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\Humanizer.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\MySqlConnector.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\bin\Debug\net7.0\System.CodeDom.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\17-dotnetdf-MyCollage.csproj.AssemblyReference.cache
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\17-dotnetdf-MyCollage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\17-dotnetdf-MyCollage.AssemblyInfoInputs.cache
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\17-dotnetdf-MyCollage.AssemblyInfo.cs
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\17-dotnetdf-MyCollage.csproj.CoreCompileInputs.cache
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\17-dotnetdf-MyCollage.MvcApplicationPartsAssemblyInfo.cs
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\17-dotnetdf-MyCollage.MvcApplicationPartsAssemblyInfo.cache
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\staticwebassets\msbuild.17-dotnetdf-MyCollage.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\staticwebassets\msbuild.build.17-dotnetdf-MyCollage.props
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.17-dotnetdf-MyCollage.props
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.17-dotnetdf-MyCollage.props
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\staticwebassets.build.json
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\staticwebassets.development.json
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\scopedcss\bundle\17-dotnetdf-MyCollage.styles.css
+e:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\17-dotnetdf-MyCollage.csproj.CopyComplete
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\17-dotnetdf-MyCollage.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\refint\17-dotnetdf-MyCollage.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\17-dotnetdf-MyCollage.pdb
+e:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\17-dotnetdf-MyCollage.genruntimeconfig.cache
+e:\Backend_class\17-dotnetdf-MyCollage - Copy\obj\Debug\net7.0\ref\17-dotnetdf-MyCollage.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.csproj.AssemblyReference.cache
+E:\Backend_class\17-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend_class\17-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.AssemblyInfoInputs.cache
+E:\Backend_class\17-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.AssemblyInfo.cs
+E:\Backend_class\17-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.csproj.CoreCompileInputs.cache
+E:\Backend_class\17-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.MvcApplicationPartsAssemblyInfo.cs
+E:\Backend_class\17-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.MvcApplicationPartsAssemblyInfo.cache
+E:\Backend_class\17-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\refint\17-dotnetdf-MyCollage.dll
+E:\Backend_class\17-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.pdb
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.csproj.AssemblyReference.cache
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.AssemblyInfoInputs.cache
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.AssemblyInfo.cs
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.csproj.CoreCompileInputs.cache
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.MvcApplicationPartsAssemblyInfo.cs
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.MvcApplicationPartsAssemblyInfo.cache
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.dll
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\refint\17-dotnetdf-MyCollage.dll
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.pdb
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\appsettings.Development.json
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\appsettings.json
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\17-dotnetdf-MyCollage.exe
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\17-dotnetdf-MyCollage.deps.json
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\17-dotnetdf-MyCollage.runtimeconfig.json
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\17-dotnetdf-MyCollage.dll
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\17-dotnetdf-MyCollage.pdb
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\Humanizer.dll
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\MySqlConnector.dll
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\bin\Debug\net7.0\System.CodeDom.dll
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\staticwebassets\msbuild.17-dotnetdf-MyCollage.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\staticwebassets\msbuild.build.17-dotnetdf-MyCollage.props
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.17-dotnetdf-MyCollage.props
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.17-dotnetdf-MyCollage.props
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\staticwebassets.build.json
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\staticwebassets.development.json
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\scopedcss\bundle\17-dotnetdf-MyCollage.styles.css
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.csproj.CopyComplete
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\17-dotnetdf-MyCollage.genruntimeconfig.cache
+E:\Backend_class\18-dotnetdf-MyCollage - Repository\obj\Debug\net7.0\ref\17-dotnetdf-MyCollage.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\17-dotnetdf-MyCollage.csproj.AssemblyReference.cache
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\17-dotnetdf-MyCollage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\17-dotnetdf-MyCollage.AssemblyInfoInputs.cache
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\17-dotnetdf-MyCollage.AssemblyInfo.cs
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\17-dotnetdf-MyCollage.csproj.CoreCompileInputs.cache
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\17-dotnetdf-MyCollage.MvcApplicationPartsAssemblyInfo.cs
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\17-dotnetdf-MyCollage.MvcApplicationPartsAssemblyInfo.cache
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\17-dotnetdf-MyCollage.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\refint\17-dotnetdf-MyCollage.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\17-dotnetdf-MyCollage.pdb
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\appsettings.Development.json
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\appsettings.json
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\17-dotnetdf-MyCollage.exe
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\17-dotnetdf-MyCollage.deps.json
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\17-dotnetdf-MyCollage.runtimeconfig.json
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\17-dotnetdf-MyCollage.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\17-dotnetdf-MyCollage.pdb
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\Humanizer.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\MySqlConnector.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\bin\Debug\net7.0\System.CodeDom.dll
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\staticwebassets\msbuild.17-dotnetdf-MyCollage.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\staticwebassets\msbuild.build.17-dotnetdf-MyCollage.props
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.17-dotnetdf-MyCollage.props
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.17-dotnetdf-MyCollage.props
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\staticwebassets.build.json
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\staticwebassets.development.json
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\scopedcss\bundle\17-dotnetdf-MyCollage.styles.css
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\17-dotnetdf-MyCollage.csproj.CopyComplete
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\17-dotnetdf-MyCollage.genruntimeconfig.cache
+E:\Backend_class\18-dotnetdf-MyCollage_Rep_AsyncAwait\obj\Debug\net7.0\ref\17-dotnetdf-MyCollage.dll
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\appsettings.Development.json
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\appsettings.json
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\17-dotnetdf-MyCollage.exe
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\17-dotnetdf-MyCollage.deps.json
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\17-dotnetdf-MyCollage.runtimeconfig.json
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\17-dotnetdf-MyCollage.dll
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\17-dotnetdf-MyCollage.pdb
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\Humanizer.dll
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\MySqlConnector.dll
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\System.CodeDom.dll
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.csproj.AssemblyReference.cache
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.AssemblyInfoInputs.cache
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.AssemblyInfo.cs
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.csproj.CoreCompileInputs.cache
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.MvcApplicationPartsAssemblyInfo.cs
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.MvcApplicationPartsAssemblyInfo.cache
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\staticwebassets\msbuild.17-dotnetdf-MyCollage.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\staticwebassets\msbuild.build.17-dotnetdf-MyCollage.props
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.17-dotnetdf-MyCollage.props
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.17-dotnetdf-MyCollage.props
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\staticwebassets.build.json
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\staticwebassets.development.json
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\scopedcss\bundle\17-dotnetdf-MyCollage.styles.css
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.csproj.CopyComplete
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.dll
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\refint\17-dotnetdf-MyCollage.dll
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.pdb
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.genruntimeconfig.cache
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\ref\17-dotnetdf-MyCollage.dll
