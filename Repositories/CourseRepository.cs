@@ -1,3 +1,4 @@
+using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using MyCollage_EF_Rep_AsyncAwait.DTO;
 using MyCollage_EF_Rep_AsyncAwait.Models;
@@ -7,18 +8,16 @@ namespace MyCollage_EF_Rep_AsyncAwait.Repositories
     public class CourseRepository:ICourseRepository
     {
         private readonly MyDbContext _dbcontext;
-        public CourseRepository(MyDbContext dbContext)
+        private IMapper _mapper;
+        public CourseRepository(MyDbContext dbContext,IMapper mapper)
         {
             _dbcontext = dbContext;
+            _mapper=mapper;
         }
         public async Task<Course> StoreAsync(AddCourseReq addCourseReq)
         {
-            Course course = new Course()
-            {
-                Name = addCourseReq.Name,
-                Vahed = addCourseReq.Vahed,
-                CreateAt = DateTime.Now
-            };
+            Course course = _mapper.Map<Course>(addCourseReq);
+            course.CreateAt = DateTime.Now;
             await _dbcontext.Courses.AddAsync(course);
             await _dbcontext.SaveChangesAsync();
             return course;
@@ -53,8 +52,7 @@ namespace MyCollage_EF_Rep_AsyncAwait.Repositories
             Course? course = await _dbcontext.Courses.FindAsync(id);
             if (course != null)
             {
-                course.Name = updateCourseReq.Name;
-                course.Vahed = updateCourseReq.Vahed;
+                _mapper.Map(updateCourseReq,course);
                 await _dbcontext.SaveChangesAsync();
                 return course;
             }

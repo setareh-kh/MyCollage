@@ -1,29 +1,25 @@
 using MyCollage_EF_Rep_AsyncAwait.DTO;
 using MyCollage_EF_Rep_AsyncAwait.Models;
 using Microsoft.EntityFrameworkCore;
+using AutoMapper;
 
 namespace MyCollage_EF_Rep_AsyncAwait.Repositories
 {
     public class StudentRepository : IStudentRepository
     {
         private readonly MyDbContext _context;
-        public StudentRepository(MyDbContext Context)
+        private IMapper _mapper;
+        public StudentRepository(MyDbContext Context, IMapper mapper)
         {
             _context = Context;
+            _mapper=mapper;
 
         }
         public async Task<Student?> StoreAsync(AddStudentReq addStudentReq)
         {
 
-            var student = new Student()
-            {
-                Name = addStudentReq.Name,
-                Family = addStudentReq.Family,
-                Mobile = addStudentReq.Mobile,
-                BirthDate = addStudentReq.BirthDate,
-                CreateAt = DateTime.Now,
-                Password = addStudentReq.Password
-            };
+            var student = _mapper.Map<Student>(addStudentReq);
+            student.CreateAt = DateTime.Now;
             await _context.Students.AddAsync(student);
             await _context.SaveChangesAsync();
             return student;
@@ -59,10 +55,7 @@ namespace MyCollage_EF_Rep_AsyncAwait.Repositories
             Student? student = await _context.Students.FindAsync(Id);
             if (student != null)
             {
-                student.Name = updateStudentReq.Name;
-                student.Family = updateStudentReq.Family;
-                student.Mobile = updateStudentReq.Mobile;
-                student.Password = updateStudentReq.Password;
+                _mapper.Map(updateStudentReq,student);
                 await _context.SaveChangesAsync();
                 return student;
             }
