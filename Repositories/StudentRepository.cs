@@ -2,6 +2,7 @@ using MyCollage_EF_Rep_AsyncAwait.DTO;
 using MyCollage_EF_Rep_AsyncAwait.Models;
 using Microsoft.EntityFrameworkCore;
 using AutoMapper;
+using MyCollage_EF_Rep_AsyncAwait.DTO.Responses;
 
 namespace MyCollage_EF_Rep_AsyncAwait.Repositories
 {
@@ -15,49 +16,48 @@ namespace MyCollage_EF_Rep_AsyncAwait.Repositories
             _mapper=mapper;
 
         }
-        public async Task<Student?> StoreAsync(AddStudentReq addStudentReq)
+        public async Task<StudentResponseDto?> StoreAsync(AddStudentReq addStudentReq)
         {
 
             var student = _mapper.Map<Student>(addStudentReq);
             student.CreateAt = DateTime.Now;
             await _context.Students.AddAsync(student);
             await _context.SaveChangesAsync();
-            return student;
+            return _mapper.Map<StudentResponseDto>(student);
         }
-        public async Task<Student?> GetAsync(int Id)
+        public async Task<StudentResponseDto?> GetAsync(int Id)
         {
             var student = await _context.Students.FindAsync(Id);
             if (student != null)
             {
-                return student;
+                return _mapper.Map<StudentResponseDto>(student);
             }
             else
             {
                 return null;
             }
 
-
         }
-        public async Task<List<Student>?> GetAllAsync()
+        public async Task<List<StudentResponseDto>?> GetAllAsync()
         {
             List<Student>? students = await _context.Students.ToListAsync();
             if (students.Count > 0)
             {
-                return students;
+                return students.Select(s=>_mapper.Map<StudentResponseDto>(s)).ToList();
             }
             else
             {
                 return null;
             }
         }
-        public async Task<Student?> UpdateAsync(int Id, UpdateStudentReq updateStudentReq)
+        public async Task<StudentResponseDto?> UpdateAsync(int Id, UpdateStudentReq updateStudentReq)
         {
             Student? student = await _context.Students.FindAsync(Id);
             if (student != null)
             {
                 _mapper.Map(updateStudentReq,student);
                 await _context.SaveChangesAsync();
-                return student;
+                return _mapper.Map<StudentResponseDto>(student);
             }
             else
             {
@@ -65,14 +65,14 @@ namespace MyCollage_EF_Rep_AsyncAwait.Repositories
             }
         }
 
-        public async Task<Student?> DeleteAsync(int Id)
+        public async Task<StudentResponseDto?> DeleteAsync(int Id)
         {
             Student? student = await _context.Students.FindAsync(Id);
             if (student != null)
             {
                 _context.Students.Remove(student);
                 await _context.SaveChangesAsync();
-                return student;
+                return _mapper.Map<StudentResponseDto>(student);
             }
             else
             {

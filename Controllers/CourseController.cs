@@ -21,7 +21,7 @@ namespace Dotnetdf_MyCollage_Repository.Controllers
         [Route("Add")]
         public async Task<IActionResult> AddCourseAsync(AddCourseReq addCourseReq)
         {
-            Course c = await _courserepository.StoreAsync(addCourseReq);
+            var c = await _courserepository.StoreAsync(addCourseReq);
             return Ok(c);
 
         }
@@ -29,7 +29,7 @@ namespace Dotnetdf_MyCollage_Repository.Controllers
         [Route("Get/{id}")]
         public async Task<IActionResult> GetCourseAsync(int id)
         {
-            Course? course =await _courserepository.GetAsync(id);
+            var course =await _courserepository.GetAsync(id);
             return Ok(course==null ? "Id Not found!!!" : course);
         }
         [HttpGet]
@@ -43,14 +43,14 @@ namespace Dotnetdf_MyCollage_Repository.Controllers
         [Route("Update/{id}")]
         public async Task<IActionResult> UpdateCourseAsync(int id, UpdateCourseReq updateCourseReq)
         {
-            Course? course=await _courserepository.UpdateAsync(id,updateCourseReq);
+            var course=await _courserepository.UpdateAsync(id,updateCourseReq);
             return Ok(course==null ? "course is not Found!!!!" : course);
         }
         [HttpDelete]
         [Route("Delete/{id}")]
         public async Task<IActionResult> DeleteCourseAsync(int id)
         {
-            Course? course=await _courserepository.DeleteAsync(id);
+            var course=await _courserepository.DeleteAsync(id);
             return Ok(course==null ? "course is not Found!!!!" : course);
         }
 

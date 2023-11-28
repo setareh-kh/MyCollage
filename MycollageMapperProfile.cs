@@ -1,5 +1,6 @@
 using AutoMapper;
 using MyCollage_EF_Rep_AsyncAwait.DTO;
+using MyCollage_EF_Rep_AsyncAwait.DTO.Responses;
 using MyCollage_EF_Rep_AsyncAwait.Models;
 
 namespace MyCollage_EF_Rep_AsyncAwait
@@ -14,6 +15,9 @@ namespace MyCollage_EF_Rep_AsyncAwait
             CreateMap<UpdateStudentReq, Student>();
             CreateMap<UpdateCourseReq,Course>();
             //mapping responses
+            CreateMap<Student,StudentResponseDto>().ForMember(sResponse => sResponse.FullName, student =>student.MapFrom(student =>String.Concat(student.Name," ", student.Family)));
+            CreateMap<Course,CourseResponseDto>();
+
         }
         
 

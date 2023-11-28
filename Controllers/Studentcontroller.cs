@@ -26,7 +26,7 @@ namespace Dotnetdf_MyCollage_Repository.Controllers
         public async Task<IActionResult> AddStudentAsync([FromBody] AddStudentReq addStudentReq)
         {
             var student = await _studentRepository.StoreAsync(addStudentReq);
-            return Ok($"{student!.Name} {student.Family} with {student.Id} is registered");
+            return Ok(student);
         }
         [HttpGet]
         [Route("Get/{id}")]
@@ -48,7 +48,7 @@ namespace Dotnetdf_MyCollage_Repository.Controllers
         public async Task<IActionResult> UpdateStudentAsync(int id, [FromBody] UpdateStudentReq updateStudent)
         {
             var student = await _studentRepository.UpdateAsync(id, updateStudent);
-            return Ok(student == null ? "student Not Found!!" : $"{student.Name} is updated");
+            return Ok(student == null ? "student Not Found!!" : $"{student.FullName} is updated");
         }
 
         [HttpDelete]
@@ -56,7 +56,7 @@ namespace Dotnetdf_MyCollage_Repository.Controllers
         public async Task<IActionResult> DeleteStudentAsync(int id)
         {
             var student = await _studentRepository.DeleteAsync(id);
-            return Ok(student == null ? "student Not Found!!" : $"{student.Name} is deleted");
+            return Ok(student == null ? "student Not Found!!" : $"{student.FullName} is deleted");
         }
 
 
