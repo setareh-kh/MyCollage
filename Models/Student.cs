@@ -1,5 +1,6 @@
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 namespace MyCollage_EF_Rep_AsyncAwait.Models
 {
     /*public enum TypeSex
@@ -18,6 +19,8 @@ namespace MyCollage_EF_Rep_AsyncAwait.Models
         public DateOnly BirthDate {get ; set;}
         [Required] [MaxLength(250)][MinLength(8)] public string? Password {get ; set;}
         public DateTime CreateAt {get; set;}
+        [NotMapped]
+        public IFormFile? Image {get; set;}
    
     }
     

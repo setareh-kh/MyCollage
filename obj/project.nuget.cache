@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dLgOqz4lHQXVSa+Nw8l2mpa332Y2PD0eyG2dbuoYuIFLNWf4tN4UvHoC6VoMjwXtgvMWI8vFDnsrRw4XF9xFyw==",
+  "dgSpecHash": "MLzGXEkjWDgS3m5seHr2LXSQMnoTpg2JkUC0f8sV/Af5dO/NkeIfT/+D/wL969mWb/RG9Z8rpBKSq9RPycd4Ug==",
   "success": true,
   "projectFilePath": "E:\\Backend_class\\Githubrepositories\\MyCollage\\17-dotnetdf-MyCollage.csproj",
   "expectedPackageFiles": [
@@ -35,7 +35,11 @@
     "C:\\Users\\Star\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\Star\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\Star\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\Star\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+    "C:\\Users\\Star\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
+    "C:\\Users\\Star\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Star\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Star\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Star\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
   ],
   "logs": []
 }

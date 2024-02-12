@@ -225,3 +225,4 @@ E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCol
 E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\ref\17-dotnetdf-MyCollage.dll
 E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\AutoMapper.dll
 E:\Backend_class\Githubrepositories\MyCollage\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Backend_class\Githubrepositories\MyCollage\obj\Debug\net7.0\17-dotnetdf-MyCollage.sourcelink.json
