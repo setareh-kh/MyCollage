@@ -1,4 +1,4 @@
-using MyCollage_EF_Rep_AsyncAwait.DTO;
+using MyCollage_EF_Rep_AsyncAwait.DTO.Requsts;
 using MyCollage_EF_Rep_AsyncAwait.Models;
 using Microsoft.EntityFrameworkCore;
 using AutoMapper;

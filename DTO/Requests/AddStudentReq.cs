@@ -1,7 +1,7 @@
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using MyCollage_EF_Rep_AsyncAwait.Validators;
-namespace MyCollage_EF_Rep_AsyncAwait.DTO
+namespace MyCollage_EF_Rep_AsyncAwait.DTO.Requsts
 {
     public class AddStudentReq
     {

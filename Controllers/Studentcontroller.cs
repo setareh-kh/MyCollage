@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using MyCollage_EF_Rep_AsyncAwait.DTO;
+using MyCollage_EF_Rep_AsyncAwait.DTO.Requsts;
 using MyCollage_EF_Rep_AsyncAwait.Models;
 using MyCollage_EF_Rep_AsyncAwait.Repositories;
 namespace Dotnetdf_MyCollage_Repository.Controllers
