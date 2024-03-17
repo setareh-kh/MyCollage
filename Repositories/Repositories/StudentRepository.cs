@@ -23,12 +23,11 @@ namespace MyCollage_EF_Rep_AsyncAwait.Repositories
             student.CreateAt = DateTime.Now;
             await _context.Students.AddAsync(student);
             await _context.SaveChangesAsync();
-            var imageName=await StoreFileAsync(student.Id.ToString(), "Pictures", addStudentReq.Image);
+            await StoreFileAsync(student.Id.ToString(), "Pictures", addStudentReq.Image);
             if (addStudentReq.NCard != null)
                 await StoreFileAsync(student.Id.ToString(), "NatinalCards", addStudentReq.NCard);
-            student.ImageProfile=$"/Assets/Pictures/{imageName}";
-            await _context.SaveChangesAsync();
-            return  _mapper.Map<StudentResponseDto>(student);
+            
+            return _mapper.Map<StudentResponseDto>(student);
         }
         public async Task<StudentResponseDto?> GetAsync(int Id)
         {
@@ -90,7 +89,7 @@ namespace MyCollage_EF_Rep_AsyncAwait.Repositories
             var result = await _context.Students.Where(x => x.Mobile == loginDto.Mobile && x.Password == loginDto.Password).ToListAsync();
             return result.Count > 0 ? result.FirstOrDefault() : null;
         }
-        private async Task<string> StoreFileAsync(string uniqStart, string lastPath, IFormFile file)
+        private async Task StoreFileAsync(string uniqStart, string lastPath, IFormFile file)
         {
             var ext = Path.GetExtension(file.FileName);
             var randomName = Path.GetRandomFileName();
@@ -105,7 +104,6 @@ namespace MyCollage_EF_Rep_AsyncAwait.Repositories
             {
                 await file.CopyToAsync(fs);
             }
-            return fileName; 
         }
     }
 }

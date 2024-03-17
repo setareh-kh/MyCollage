@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("17-dotnetdf-MyCollage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e041276fec60776988c1a54e1bd7cda262786d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd5f256054afb4cb51a80aa624baf4e687f513b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("17-dotnetdf-MyCollage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("17-dotnetdf-MyCollage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -19,8 +19,9 @@ namespace MyCollage_EF_Rep_AsyncAwait.Models
         public DateOnly BirthDate {get ; set;}
         [Required] [MaxLength(250)][MinLength(8)] public string? Password {get ; set;}
         public DateTime CreateAt {get; set;}
-        [Required]
-        public string? ImageProfile {get; set;}
+        [NotMapped]
+        public IFormFile? Image {get; set;}
+   
     }
     
 }

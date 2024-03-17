@@ -82,9 +82,6 @@ namespace MyCollage_EF_Rep_AsyncAwait.Migrations
                         .HasMaxLength(250)
                         .HasColumnType("varchar(250)");
 
-                    b.Property<string>("ImageProfile")
-                        .HasColumnType("longtext");
-
                     b.Property<string>("Mobile")
                         .HasMaxLength(250)
                         .HasColumnType("varchar(250)");
